@@ -1,2 +1,3 @@
-# lite-task-manager-sigj
-Automated issue comment bot repository
+# Lite Task Manager Sigj
+
+Automated issue comment bot repository.
